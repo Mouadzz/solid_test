@@ -1,16 +1,5 @@
-# solid_test
+# Solid Test Task
 
-A new Flutter project.
+This repository contains my solution to the Flutter test task, which is to create a simple Flutter app that displays the text "Hello there" in the middle of the screen. Additionally, tapping anywhere on the screen should change the background color to a randomly generated color.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository includes Flutter tests to ensure the correctness and functionality of the code.
